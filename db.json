@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "computer",
+      "price": "157",
+      "quantity": "20",
+      "selected": false,
+      "available": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "CD",
+      "price": "257",
+      "quantity": "47",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 1,
+      "name": "Souris",
+      "price": "352",
+      "quantity": "47",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "iphone",
+      "price": "1486",
+      "quantity": "25",
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "aaa",
+      "price": "0",
+      "quantity": 0,
+      "selected": true,
+      "available": false,
+      "id": 7
+    }
+  ]
+}
